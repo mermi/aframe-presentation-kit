@@ -4,7 +4,7 @@
   <h1>A-Frame</h1>
   <p>A web framework for building VR experiences</p>
   <p class="talk-info">
-    @andgokevin | Mozilla VR | **aframe.io**
+    @manelbutterfly | Mozilla VR | **aframe.io**
   </p>
 </div>
 
@@ -43,30 +43,6 @@
 - HTC Vive with Steam currently offers the most compelling experiences, but never know
 - See a lot of different devices, systems, platforms competing against each other...
 
----
-
-## Friction of VR Ecosystems
-
-<div class="captioned-image-row">
-  <div>
-    <img data-src="media/img/gatekeeper.png">
-    <i>Gatekeepers</i>
-  </div>
-  <div>
-    <img data-src="media/img/downloads-installs.png">
-    <i>Installs</i>
-  </div>
-  <div>
-    <img data-src="media/img/closed-door.png">
-    <i>Closed</i>
-  </div>
-</div>
-
-<!-- NOTES -->
-- App stores and corporations control distribution: can take down or block content
-- Downloads / installs are a barrier to consumption: small business pages
-- Closed ecosystem: proprietary engines, steep learning curves, siloed experiences, fragmentation
-- We want VR to be successful, so we want a platform without these points of friction. The answer is WebVR...
 
 ------
 
@@ -174,19 +150,6 @@ https://webvr.rocks
 - Currently behind Nightly, custom builds, and flags
 - Mobile Polyfill: use device motion / orientation sensors to polyfill on smartphones
 - With all the browsers behind it...
-
----
-
-## Metaverse
-
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
-
-<!-- NOTES -->
-- Shared persistent collective virtual spaces
-- Alternate digital reality that the world may live, work, play
-- Must be decentralized/open/connected, the Web is best platform to fully realize
-- Where do we begin?
-- three.js abstracts WebGL, 3D, and WebVR, but could still make it more accessible
 
 ---
 
@@ -471,33 +434,6 @@ A web framework for building virtual reality experiences
 - Drop these components as script tags and use them straight from HTML
 - Advanced developers empowering other developers
 - Working on collecting these components...
-
----
-
-# Registry
-
-<!-- .slide: data-background-color="#333" -->
-
-Curated collection of A-Frame components.
-
-<a class="stretch" href="https://aframe.io/aframe-registry">
-  <video loop data-src="media/video/registrypreview.mp4" data-autoplay></video>
-</a>
-
-<!-- NOTES -->
-- Collecting them into the A-Frame registry
-- Like a store of components that we make sure work well
-- People can browse and search for components or install them....
-
----
-
-# Registry
-
-<!-- .slide: data-background-color="#333" -->
-
-Curated collection of A-Frame components.
-
-<video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
 
 ---
 
